@@ -100,8 +100,8 @@
                 <span class="icon-location-arrow text-primary"></span>
               </div>
               <div class="text">
-                <span class="h4 d-block">Lucknow</span>
-                <span class="caption-text">Mountain View, 856 , UP</span>
+                <span class="h4 d-block">Dhaka</span>
+                <span class="caption-text">Bangladesh</span>
               </div>
             </div>
 <!--  Author Name: MH RONY.
@@ -118,7 +118,7 @@
                 <span class="icon-phone text-primary"></span>
               </div>
               <div class="text">
-                <span class="h4 d-block">91-8956231478</span>
+                <span class="h4 d-block">123-4567890</span>
                 <span class="caption-text">Toll free</span>
               </div>
             </div>
