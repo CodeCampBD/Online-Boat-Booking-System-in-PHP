@@ -11,9 +11,9 @@ How to run the Boat Booking System using PHP and MySQL
 
 2. Extract the file and copy codecampbd_bbs folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
 
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
 5. Create a database with the name  codecampbd_bbs
 
