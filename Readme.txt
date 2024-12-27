@@ -1,3 +1,10 @@
+#Project Preview: 
+
+![screencapture-localhost-bbs-index-php-2024-12-27-15_20_02](https://github.com/user-attachments/assets/d70fa70d-f266-4747-b3b6-e829903367e0)
+
+
+#How To RUN PROJECT:
+
 How to run the Boat Booking System using PHP and MySQL
 
 1. Download the project zip file
